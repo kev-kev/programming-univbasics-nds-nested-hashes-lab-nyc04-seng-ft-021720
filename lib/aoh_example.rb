@@ -16,7 +16,7 @@ end
 def literal_aoh
   # Using Array literal syntax only, build a nested array that uses the data in
   # held in the constants
-  character_info = [DON_G = { name:  "Don Gately", occupation: "Live-in Staff" },
+  character_info = [name:  "Don Gately", occupation: "Live-in Staff" },
                     JOELLE_VD = { name:  "Joelle van Dyne", occupation: "Radio Personality" },
                     PAT_M =  { name:  "Pat Monteseian", occupation: "Staff" },
                     KATE_G = { name:  "Kate Gompert", occupation: "None" },
